@@ -1,0 +1,14 @@
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\bin\Debug\Estoque_CCA.exe.config
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\bin\Debug\Estoque_CCA.exe
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\bin\Debug\Estoque_CCA.pdb
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\obj\Debug\Estoque_CCA.csprojAssemblyReference.cache
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\obj\Debug\Estoque_CCA.Form1.resources
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\obj\Debug\Estoque_CCA.Properties.Resources.resources
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\obj\Debug\Estoque_CCA.csproj.GenerateResource.cache
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\obj\Debug\Estoque_CCA.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\obj\Debug\Estoque_CCA.exe
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\obj\Debug\Estoque_CCA.pdb
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\obj\Debug\Estoque_CCA.Form2.resources
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\obj\Debug\Estoque_CCA.Form3.resources
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\obj\Debug\Estoque_CCA.Form4.resources
+C:\Users\lucia\source\repos\Estoque_CCA\Estoque_CCA\obj\Debug\Estoque_CCA.Form5.resources
